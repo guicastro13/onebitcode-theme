@@ -2,7 +2,7 @@
   "name": "onebitcode-theme",
   "displayName": "onebitcode-theme",
   "description": "Thema criado para os alunos do curso onebitcode.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "guicastro13",
   "engines": {
     "vscode": "^1.75.0"
@@ -19,12 +19,22 @@
         "path": "./themes/onebitcode-theme-color-theme-2.json"
       },
       {
-        "label": "onebitcode-theme-snow",
+        "label": "onebitcode-theme-basic-blue",
+        "uiTheme": "vs",
+        "path": "./themes/basic-blue-color-theme.json"
+      },
+      {
+        "label": "onebitcode-theme-darkblue",
         "uiTheme": "vs",
         "path": "./themes/darkblue-theme-color-theme.json"
       },
       {
-        "label": "onebitcode-theme-darkblue",
+        "label": "onebitcode-theme-neon-puple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-puple-theme-color-theme.json"
+      },
+      {
+        "label": "onebitcode-theme-snow",
         "uiTheme": "vs",
         "path": "./themes/snow-theme-color-theme.json"
       }
