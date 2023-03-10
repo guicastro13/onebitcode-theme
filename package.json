@@ -14,9 +14,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "onebitcode-theme",
+        "label": "onebitcode-theme-rockstar",
         "uiTheme": "vs-dark",
         "path": "./themes/onebitcode-theme-color-theme-2.json"
+      },
+      {
+        "label": "onebitcode-theme-snow",
+        "uiTheme": "vs",
+        "path": "./themes/darkblue-theme-color-theme.json"
+      },
+      {
+        "label": "onebitcode-theme-darkblue",
+        "uiTheme": "vs",
+        "path": "./themes/snow-theme-color-theme.json"
       }
     ]
   },
