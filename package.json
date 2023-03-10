@@ -1,0 +1,22 @@
+{
+  "name": "onebitcode-theme",
+  "displayName": "onebitcode-theme",
+  "description": "Thema criado para os alunos do curso onebitcode.",
+  "version": "0.0.1",
+  "publisher": "guicastro13",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "onebitcode-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/onebitcode-theme-color-theme-2.json"
+      }
+    ]
+  }
+}
