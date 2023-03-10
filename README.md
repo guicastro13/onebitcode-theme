@@ -1,6 +1,6 @@
 # onebitcode-theme README
 
-![Um texto exemplo]("assets/screen-theme.png")
+![Um texto exemplo](assets/screen-theme.png)
 
 ## Working with Markdown
 
