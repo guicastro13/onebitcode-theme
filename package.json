@@ -10,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "assets/onebitcode.jpeg",
   "contributes": {
     "themes": [
       {
@@ -18,5 +19,9 @@
         "path": "./themes/onebitcode-theme-color-theme-2.json"
       }
     ]
-  }
+  },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/guicastro13/onebitcode-theme"
+}
 }
