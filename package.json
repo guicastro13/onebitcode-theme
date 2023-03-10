@@ -2,7 +2,7 @@
   "name": "onebitcode-theme",
   "displayName": "onebitcode-theme",
   "description": "Thema criado para os alunos do curso onebitcode.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "guicastro13",
   "engines": {
     "vscode": "^1.75.0"
